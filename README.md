@@ -1,6 +1,5 @@
 Charles Davies
-
-Lab3 git repo csci3308
+Lab3 assignment
 
 # lab3
 lab3 intro
